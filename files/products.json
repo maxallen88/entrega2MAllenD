@@ -1,0 +1,29 @@
+[
+	{
+		"title": "BTC/USDT",
+		"description": "Binance",
+		"price": 25000,
+		"thumbnail": "Images not available",
+		"code": "001",
+		"stock": "0.5",
+		"id": 1
+	},
+	{
+		"title": "BTC/USD",
+		"description": "Binance",
+		"price": 25000,
+		"thumbnail": "Images not available",
+		"code": "002",
+		"stock": "0.1",
+		"id": 2
+	},
+	{
+		"title": "BTC/USDC",
+		"description": "Binance",
+		"price": 48000,
+		"thumbnail": "Images not available",
+		"code": "003",
+		"stock": "0.1",
+		"id": 3
+	}
+]
